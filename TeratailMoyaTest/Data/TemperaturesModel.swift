@@ -1,6 +1,7 @@
 import Foundation
 
 //    以下の部分のパース
+//    min, max は null になる時があるので optional にする
 //
 //    "temperature":
 //    {

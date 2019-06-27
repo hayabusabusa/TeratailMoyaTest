@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  TeratailMoyaTest
-//
-//  Created by Yamada Shunya on 2019/06/26.
-//  Copyright © 2019 Yamada Shunya. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain

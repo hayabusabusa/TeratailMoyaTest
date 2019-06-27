@@ -16,7 +16,6 @@
 		A44FF92522C36A93008773F5 /* LivedoorWeatherAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44FF92422C36A93008773F5 /* LivedoorWeatherAPI.swift */; };
 		A4965F1022C44BAE004702EA /* response.json in Resources */ = {isa = PBXBuildFile; fileRef = A4965F0F22C44BAE004702EA /* response.json */; };
 		A4965F1322C44EE9004702EA /* CityParam.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4965F1222C44EE9004702EA /* CityParam.swift */; };
-		A4965F1622C44FA9004702EA /* CityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4965F1522C44FA9004702EA /* CityModel.swift */; };
 		A4965F1822C44FE9004702EA /* ForecastsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4965F1722C44FE9004702EA /* ForecastsModel.swift */; };
 		A4965F1A22C45055004702EA /* TemperaturesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4965F1922C45055004702EA /* TemperaturesModel.swift */; };
 /* End PBXBuildFile section */
@@ -33,7 +32,6 @@
 		A44FF92422C36A93008773F5 /* LivedoorWeatherAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivedoorWeatherAPI.swift; sourceTree = "<group>"; };
 		A4965F0F22C44BAE004702EA /* response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = response.json; sourceTree = "<group>"; };
 		A4965F1222C44EE9004702EA /* CityParam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityParam.swift; sourceTree = "<group>"; };
-		A4965F1522C44FA9004702EA /* CityModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityModel.swift; sourceTree = "<group>"; };
 		A4965F1722C44FE9004702EA /* ForecastsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastsModel.swift; sourceTree = "<group>"; };
 		A4965F1922C45055004702EA /* TemperaturesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperaturesModel.swift; sourceTree = "<group>"; };
 		CF85E867E49E96C487A059E1 /* Pods-TeratailMoyaTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TeratailMoyaTest.debug.xcconfig"; path = "Target Support Files/Pods-TeratailMoyaTest/Pods-TeratailMoyaTest.debug.xcconfig"; sourceTree = "<group>"; };
@@ -107,7 +105,6 @@
 			isa = PBXGroup;
 			children = (
 				A4965F0F22C44BAE004702EA /* response.json */,
-				A4965F1522C44FA9004702EA /* CityModel.swift */,
 				A4965F1722C44FE9004702EA /* ForecastsModel.swift */,
 				A4965F1922C45055004702EA /* TemperaturesModel.swift */,
 			);
@@ -239,7 +236,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A4965F1322C44EE9004702EA /* CityParam.swift in Sources */,
-				A4965F1622C44FA9004702EA /* CityModel.swift in Sources */,
 				A44FF91522C36A26008773F5 /* ViewController.swift in Sources */,
 				A44FF92522C36A93008773F5 /* LivedoorWeatherAPI.swift in Sources */,
 				A4965F1A22C45055004702EA /* TemperaturesModel.swift in Sources */,
